@@ -1,4 +1,6 @@
-# mediscan-api-demo
+# Mediscan API Demo
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 This is a demo project for the Mediscan API. It is a simple web application that allows you to scan a medicine package and see the results (i.e., manufacture date, expiry date, etc.) in a web page.
 
