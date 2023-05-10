@@ -1,2 +1,2 @@
 @echo off
-conda activate flask-app && python main.py
+conda activate flask-app && python app.py
